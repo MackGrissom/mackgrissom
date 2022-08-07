@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mack!</h1>
-<h3 align="center">A ambitious and curious developer from the USA. Open to Freelance projects or fulltime remote opportunities.</h3>
+<h3 align="center">An ambitious and curious developer from the USA. Open to Freelance projects or fulltime remote opportunities, and willing to work on interesting open source projects! </h3>
 
 - 🔭 I’m currently working on [an NFT Ticketing Marketplace](Renbo.io)
 
