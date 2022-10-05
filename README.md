@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mack!</h1>
 <h3 align="center">An ambitious and curious developer from the USA. Open to Freelance projects or fulltime remote opportunities, and willing to work on interesting open source projects! </h3>
 
-- 🔭 I’m currently working on [a full-stack web design agency](https://fullcircledesign.io)
+- 🔭 I’m currently working on [a web design agency](https://www.fullcircledesign.io/)
 
 - 🌱 I’m currently continuing my learning on **React, Tailwind**
 
