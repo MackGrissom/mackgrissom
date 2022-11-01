@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.mackgrissom.io/](https://www.mackgrissom.io/)
 
-- 💻 Check out my design agency!  [https://www.fullcircledesign.io/](https://www.fullcircledesign.io/)
+- 💻 Check out my web design agency!  [https://www.fullcircledesign.io/](https://www.fullcircledesign.io/)
 
 - 📫 How to reach me **mack@mackgrissom.io**
 
