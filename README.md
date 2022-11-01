@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a web design agency](https://www.fullcircledesign.io/)
 
-- 🌱 I’m currently continuing my learning on **React, Tailwind**
+- 🌱 I’m currently continuing my learning on **React & Redux**
 
 - 👨‍💻 All of my projects are available at [https://www.mackgrissom.io/](https://www.mackgrissom.io/)
 
