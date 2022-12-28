@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mack@mackgrissom.io**
 
-- Here's my resume: [https://app.enhancv.com/share/7cdac89a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/7cdac89a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- Resume Available Upon Request
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
