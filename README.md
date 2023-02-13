@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mack!</h1>
 <h3 align="center">An ambitious and curious developer from the USA. Open to Freelance projects or fulltime remote opportunities, and willing to work on interesting open source projects! </h3>
 
-- 🔭 I’m currently working on [a web design agency](https://www.fullcircledesign.io/)
+- 🔭 I’m currently working on [a web design agency](https://www.fullcircledesign.io/) Ethical Hacking Using Kali Linux & 3D design using ThreeJS!
 
-- 🌱 I’m currently continuing my learning on **React, ThreeJS, Ethical Hacking in Kali Linux**
+- 🌱 I’m currently continuing my learning on **React, ThreeJS, Ethical Hacking in Kali **
 
 - 👨‍💻 All of my projects are available at [https://www.mackgrissom.io/](https://www.mackgrissom.io/)
 
