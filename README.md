@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a web design agency](https://www.fullcircledesign.io/) Ethical Hacking Using Kali Linux & 3D design using ThreeJS!
 
-- 🌱 I’m currently continuing my learning on **React, ThreeJS, Ethical Hacking in Kali **
+- 🌱 I’m currently continuing my learning on **React, ReactThreeFiber, Ethical Hacking in Kali **
 
 - 👨‍💻 All of my projects are available at [https://www.mackgrissom.io/](https://www.mackgrissom.io/)
 
