@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mack@mackgrissom.io**
 
-- 📄 My Resume [https://app.enhancv.com/share/f91a3a12/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/f91a3a12/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 My [Resume](https://app.enhancv.com/share/f91a3a12/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 - ⚡ Fun fact **I've been to 30+ countries and am still exploring!**
 
