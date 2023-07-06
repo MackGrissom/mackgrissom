@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Mack,</h1>
-<h3 align="center">I'm a freelance web developer from the USA..Next.JS and Tailwind are my primary stack</h3>
+<h3 align="center">I'm a freelance web developer from the USA..</h3>
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://www.mackgrissom.io/)
 
