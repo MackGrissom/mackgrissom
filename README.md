@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Mack,</h1>
 <h3 align="center">I'm a freelance developer from the USA..</h3>
-
+<p> I code every single day, only commit to github when it's relevant or necessary</p>
 - 📫 How to reach me **mack@mackgrissom.io**
 
 <h3 align="left">Languages and Tools:</h3>
