@@ -1,13 +1,70 @@
-<h1 align="center">Hey 👋, I'm Mack,</h1>
-<h3 align="center">I'm a freelance developer from the USA..</h3>
-<p> Projects not locked behind NDA are available upon request</p>
-- 📫 How to reach me mack@mackgrissom.io
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```
+mack@dev:~$ whoami
+```
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mackg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mackg" /></a></p><br><br>
+# Mack Grissom
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mackgrissom&show_icons=true&theme=dark&locale=en&layout=compact" alt="mackgrissom" /></p>
+**AI Consultant & Software Engineer**
 
+I build AI-powered products and high-performance web applications for forward-thinking companies.
+
+[![Website](https://img.shields.io/badge/mackgrissom.io-0a0a0a?style=flat-square&logo=google-chrome&logoColor=c8ff00)](https://mackgrissom.io)
+[![Email](https://img.shields.io/badge/mack@mackgrissom.io-0a0a0a?style=flat-square&logo=gmail&logoColor=c8ff00)](mailto:mack@mackgrissom.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=c8ff00)](https://www.linkedin.com/in/mackgrissom/)
+
+</div>
+
+---
+
+```
+mack@dev:~$ cat about.txt
+```
+
+Full-stack developer and AI consultant who partners with companies to build products that matter. Specializing in React, Next.js, and AI integrations — from strategy to deployment, I create solutions that scale.
+
+**50+ projects** · **40+ clients** · **4+ years experience** · **20+ countries**
+
+---
+
+```
+mack@dev:~$ ls tech-stack/
+```
+
+**Frontend** &nbsp;&mdash;&nbsp; React · Next.js · TypeScript · Tailwind CSS · Framer Motion
+<br>
+**Backend** &nbsp;&mdash;&nbsp; Node.js · Ruby on Rails · PostgreSQL · Supabase
+<br>
+**AI/ML** &nbsp;&mdash;&nbsp; OpenAI · Claude · LLM Integration · AI Automation
+<br>
+**Tools** &nbsp;&mdash;&nbsp; Git · Vercel · Figma · Shopify · Sanity CMS
+
+---
+
+```
+mack@dev:~$ ls featured-projects/
+```
+
+**[ASCII Hub](https://github.com/MackGrissom/ASCII-Hub)** — React component library with 21 customizable ASCII animations. Zero dependencies.
+
+**[SimplyAI](https://github.com/MackGrissom/SimplyAI)** — AI toolkit with GPT-4 powered tools for content creation and coding assistance.
+
+**[Quantum Robotics](https://github.com/MackGrissom/Quantum_RoboticsLP)** — Immersive robotics company site with 3D animations and interactive UI.
+
+**[Weightless](https://github.com/MackGrissom/weightless)** — Digital nomad job board connecting remote workers with location-independent roles.
+
+> Several client projects are protected by non-disclosure agreements. Full portfolio and case studies at **[mackgrissom.io](https://mackgrissom.io)**.
+
+---
+
+<div align="center">
+
+**Open to consulting, contract work, and interesting collaborations.**
+
+```
+mack@dev:~$ echo $EMAIL
+mack@mackgrissom.io
+```
+
+</div>
