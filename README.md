@@ -52,7 +52,7 @@ mack@dev:~$ ls featured-projects/
 
 **[Quantum Robotics](https://github.com/MackGrissom/Quantum_RoboticsLP)** — Immersive robotics company site with 3D animations and interactive UI.
 
-**[Weightless](https://github.com/MackGrissom/weightless)** — Digital nomad job board connecting remote workers with location-independent roles.
+**[Weightless](https://weightless-nine.vercel.app)** — Production digital nomad job board with 200+ scraped jobs, salary-in-context, and Stripe monetization. ([Source](https://github.com/MackGrissom/weightless))
 
 > Several client projects are protected by non-disclosure agreements. Full portfolio and case studies at **[mackgrissom.io](https://mackgrissom.io)**.
 
