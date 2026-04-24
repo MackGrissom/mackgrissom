@@ -23,7 +23,7 @@ mack@dev:~$ cat about.txt
 
 Full-stack developer and AI consultant who partners with companies to build products that matter. Specializing in React, Next.js, and AI integrations — from strategy to deployment, I create solutions that scale.
 
-**50+ projects** · **40+ clients** · **4+ years experience** · **20+ countries**
+**50+ projects** · **40+ clients** · **20+ countries**
 
 ---
 
