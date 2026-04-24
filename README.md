@@ -21,7 +21,7 @@ I build AI-powered products and high-performance web applications for forward-th
 mack@dev:~$ cat about.txt
 ```
 
-Full-stack developer and AI consultant who partners with companies to build products that matter. Specializing in React, Next.js, and AI integrations — from strategy to deployment, I create solutions that scale.
+Full-stack developer and AI consultant who partners with companies to build products that matter. Specializing in React, Next.js, and AI integrations, from strategy to deployment, I create solutions that scale.
 
 **50+ projects** · **40+ clients** · **20+ countries**
 
@@ -44,14 +44,6 @@ mack@dev:~$ ls tech-stack/
 ```
 mack@dev:~$ ls featured-projects/
 ```
-
-**[ASCII Hub](https://github.com/MackGrissom/ASCII-Hub)** — React component library with 21 customizable ASCII animations. Zero dependencies.
-
-**[SimplyAI](https://github.com/MackGrissom/SimplyAI)** — AI toolkit with GPT-4 powered tools for content creation and coding assistance.
-
-**[Quantum Robotics](https://github.com/MackGrissom/Quantum_RoboticsLP)** — Immersive robotics company site with 3D animations and interactive UI.
-
-**[Weightless](https://weightless-nine.vercel.app)** — Production digital nomad job board with 200+ scraped jobs, salary-in-context, and Stripe monetization. ([Source](https://github.com/MackGrissom/weightless))
 
 > Several client projects are protected by non-disclosure agreements. Full portfolio and case studies at **[mackgrissom.io](https://mackgrissom.io)**.
 
