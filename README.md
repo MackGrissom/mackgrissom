@@ -12,7 +12,6 @@ I build AI-powered products and high-performance web applications for forward-th
 
 [![Website](https://img.shields.io/badge/mackgrissom.io-0a0a0a?style=flat-square&logo=google-chrome&logoColor=c8ff00)](https://mackgrissom.io)
 [![Email](https://img.shields.io/badge/mack@mackgrissom.io-0a0a0a?style=flat-square&logo=gmail&logoColor=c8ff00)](mailto:mack@mackgrissom.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=c8ff00)](https://www.linkedin.com/in/mackgrissom/)
 
 </div>
 
